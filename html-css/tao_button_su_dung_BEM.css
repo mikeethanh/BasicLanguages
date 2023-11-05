@@ -1,0 +1,50 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: "Helvetica Neue";
+  background-color: #f4f4f5;
+}
+
+body > div {
+  margin: auto;
+}
+
+.button{
+    display: inline-block;
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+    outline:none;
+    color: #fff;
+    /* 2 so : trenduoi traiphai */
+    padding: 12px 48px;
+    /* bo goc */
+    border-radius: 50px;
+    /* nut bam duoc khi di chuot vao co dau mui ten */
+    cursor: pointer ;
+    
+    transition: opacity 0.2s ease; 
+}
+
+  /* nut bam duoc khi di chuot vao co effect gi do*/ 
+  .button:hover { 
+    opacity: 0.8;
+  }
+
+/* 2 nut gan nhau co the css de 2 nut cach nhau ra */
+.button+.button { 
+    margin-left: 16px;
+}
+
+.button--success { 
+    background-color:green ;
+}
+
+.button--warn { 
+    background-color: yellow;
+      
+}
+.button--fail { 
+   background-color: red;
+}

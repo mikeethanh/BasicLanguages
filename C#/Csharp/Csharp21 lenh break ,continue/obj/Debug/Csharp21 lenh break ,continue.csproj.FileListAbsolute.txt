@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp21 lenh break ,continue\bin\Debug\Csharp21 lenh break ,continue.exe.config
+E:\C# VS\Csharp\Csharp21 lenh break ,continue\bin\Debug\Csharp21 lenh break ,continue.exe
+E:\C# VS\Csharp\Csharp21 lenh break ,continue\bin\Debug\Csharp21 lenh break ,continue.pdb
+E:\C# VS\Csharp\Csharp21 lenh break ,continue\obj\Debug\Csharp21 lenh break ,continue.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp21 lenh break ,continue\obj\Debug\Csharp21 lenh break ,continue.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp21 lenh break ,continue\obj\Debug\Csharp21 lenh break ,continue.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp21 lenh break ,continue\obj\Debug\Csharp21 lenh break ,continue.exe
+E:\C# VS\Csharp\Csharp21 lenh break ,continue\obj\Debug\Csharp21 lenh break ,continue.pdb

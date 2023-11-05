@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp15 cau truc switch case\bin\Debug\Csharp15 cau truc switch case.exe.config
+E:\C# VS\Csharp\Csharp15 cau truc switch case\bin\Debug\Csharp15 cau truc switch case.exe
+E:\C# VS\Csharp\Csharp15 cau truc switch case\bin\Debug\Csharp15 cau truc switch case.pdb
+E:\C# VS\Csharp\Csharp15 cau truc switch case\obj\Debug\Csharp15 cau truc switch case.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp15 cau truc switch case\obj\Debug\Csharp15 cau truc switch case.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp15 cau truc switch case\obj\Debug\Csharp15 cau truc switch case.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp15 cau truc switch case\obj\Debug\Csharp15 cau truc switch case.exe
+E:\C# VS\Csharp\Csharp15 cau truc switch case\obj\Debug\Csharp15 cau truc switch case.pdb

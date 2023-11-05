@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp20 vong lap long nhau\bin\Debug\Csharp20 vong lap long nhau.exe.config
+E:\C# VS\Csharp\Csharp20 vong lap long nhau\bin\Debug\Csharp20 vong lap long nhau.exe
+E:\C# VS\Csharp\Csharp20 vong lap long nhau\bin\Debug\Csharp20 vong lap long nhau.pdb
+E:\C# VS\Csharp\Csharp20 vong lap long nhau\obj\Debug\Csharp20 vong lap long nhau.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp20 vong lap long nhau\obj\Debug\Csharp20 vong lap long nhau.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp20 vong lap long nhau\obj\Debug\Csharp20 vong lap long nhau.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp20 vong lap long nhau\obj\Debug\Csharp20 vong lap long nhau.exe
+E:\C# VS\Csharp\Csharp20 vong lap long nhau\obj\Debug\Csharp20 vong lap long nhau.pdb

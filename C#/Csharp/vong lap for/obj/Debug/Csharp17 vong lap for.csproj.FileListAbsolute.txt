@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\vong lap for\bin\Debug\vong lap for.exe.config
+E:\C# VS\Csharp\vong lap for\bin\Debug\vong lap for.exe
+E:\C# VS\Csharp\vong lap for\bin\Debug\vong lap for.pdb
+E:\C# VS\Csharp\vong lap for\obj\Debug\Csharp17 vong lap for.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\vong lap for\obj\Debug\Csharp17 vong lap for.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\vong lap for\obj\Debug\Csharp17 vong lap for.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\vong lap for\obj\Debug\vong lap for.exe
+E:\C# VS\Csharp\vong lap for\obj\Debug\vong lap for.pdb

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="main.js"></script>
+
+    <style>
+        .red {
+            color: red;
+        }
+    </style>
+
+   <!-- vd 2 -->
+   <style>
+    ul {
+        display: none;
+    }
+
+    input:focus ~ ul {
+         display: block;
+    }
+   </style>
+
+</head>
+<body>
+    <h1 id = "heading">HTML DOM</h1>
+
+    <div class="box-1">
+         <ul>
+            <li>
+                java1
+            </li>
+
+            <li>
+                php 1
+            </li>
+         </ul>
+    </div>
+
+    <div class="box-2">
+        <ul>
+            <li>
+                java2
+            </li>
+
+            <li>
+                php2
+            </li>
+         </ul>
+    </div>
+
+
+    <!-- 2.Attribute -->
+    <h1>Heading</h1>
+
+    <!-- 3.text -->
+
+
+    <!-- 4.addElement vao Element -->
+    <div class="box"></div>
+
+    <!-- DOM event -->
+    <h1 onclick="console.log(this)">DOM events</h1>
+    <h1 onmouseover="console.log(Math.random())">DOM events</h1>
+
+    <!-- DOM event example -->
+    <input type="text">
+    <input type="checkbox">
+
+    <select >
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+    </select>
+
+    <!-- DOM event -->
+    <a href="http://f8.edu.vn">hoc lap trinh</a>
+    <br>
+    <a href="http://goole.com.vn">tim kiem</a>
+
+    <!-- vd 2 -->
+    <input placeholder="Tim kiem"> 
+
+    <ul>
+       <li>java</li>
+       <li>css</li>
+       <li>go lang</li>
+    </ul>
+
+<!-- event listener -->
+<button id = "btn">Click me!</button>
+
+<!--  -->
+<script type = "module" src = "./main1.js"></script>
+</body>
+</html>

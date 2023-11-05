@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp14 cau truc if else\bin\Debug\Csharp14 cau truc if else.exe.config
+E:\C# VS\Csharp\Csharp14 cau truc if else\bin\Debug\Csharp14 cau truc if else.exe
+E:\C# VS\Csharp\Csharp14 cau truc if else\bin\Debug\Csharp14 cau truc if else.pdb
+E:\C# VS\Csharp\Csharp14 cau truc if else\obj\Debug\Csharp14 cau truc if else.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp14 cau truc if else\obj\Debug\Csharp14 cau truc if else.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp14 cau truc if else\obj\Debug\Csharp14 cau truc if else.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp14 cau truc if else\obj\Debug\Csharp14 cau truc if else.exe
+E:\C# VS\Csharp\Csharp14 cau truc if else\obj\Debug\Csharp14 cau truc if else.pdb

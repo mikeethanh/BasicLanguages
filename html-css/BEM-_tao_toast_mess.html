@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" href="BEM_tao_toast_mess.css">
+    </head>
+
+    <body>
+        <div id = "toast">
+            <!-- SUCCESS -->
+            <div class="toast toast--success">
+                <div class = "toast__icon">
+                    <i class="fa-solid fa-circle-check"></i>
+                </div>
+                <div class = "toast__body">
+                   <h3 class =  "toast__title">Success</h3>
+                   <p class = "toast__msg">may vi tinh ket noi Internet (Windows,ubuntu hoac MacOS)</p>
+                </div>
+                <div class = "toast__close">
+                    <i class="fa-solid fa-circle-xmark"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class = "button">
+            <button class = "button button--success button--disable">show success</button>
+            <button class =  "button button--fail">show error </button>
+        </div>
+    </body>
+</html>

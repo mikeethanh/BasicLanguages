@@ -1,0 +1,8 @@
+E:\C# VS\Practise1\1.9\bin\Debug\1.9.exe.config
+E:\C# VS\Practise1\1.9\bin\Debug\1.9.exe
+E:\C# VS\Practise1\1.9\bin\Debug\1.9.pdb
+E:\C# VS\Practise1\1.9\obj\Debug\1.9.csproj.AssemblyReference.cache
+E:\C# VS\Practise1\1.9\obj\Debug\1.9.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Practise1\1.9\obj\Debug\1.9.csproj.CoreCompileInputs.cache
+E:\C# VS\Practise1\1.9\obj\Debug\1.9.exe
+E:\C# VS\Practise1\1.9\obj\Debug\1.9.pdb

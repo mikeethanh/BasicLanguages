@@ -1,0 +1,8 @@
+E:\C# VS\Practise 2 vong lap don\2.7\bin\Debug\2.7.exe.config
+E:\C# VS\Practise 2 vong lap don\2.7\bin\Debug\2.7.exe
+E:\C# VS\Practise 2 vong lap don\2.7\bin\Debug\2.7.pdb
+E:\C# VS\Practise 2 vong lap don\2.7\obj\Debug\2.7.csproj.AssemblyReference.cache
+E:\C# VS\Practise 2 vong lap don\2.7\obj\Debug\2.7.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Practise 2 vong lap don\2.7\obj\Debug\2.7.csproj.CoreCompileInputs.cache
+E:\C# VS\Practise 2 vong lap don\2.7\obj\Debug\2.7.exe
+E:\C# VS\Practise 2 vong lap don\2.7\obj\Debug\2.7.pdb

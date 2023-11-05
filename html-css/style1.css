@@ -1,0 +1,40 @@
+/* khong co s phan cap giua in and ex */
+h1 { 
+    color: red;
+}
+
+/* tag-1 */
+h1 { 
+    color: blue;
+}
+
+/* heading class - 10 */
+.heading-class { 
+    color: aqua;
+}
+
+/* id  */
+#id { 
+    color: brown;
+}
+
+*{ 
+    color :rgba(19, 100, 221, 0.959);
+}
+
+li { 
+    color: rgb(204, 216, 33);
+}
+
+/* CSS variable */
+:root { 
+   --text-color: green;
+}
+
+h2 { 
+    color: var(--text-color);
+}
+
+h3 { 
+    color: var(--text-color);
+}

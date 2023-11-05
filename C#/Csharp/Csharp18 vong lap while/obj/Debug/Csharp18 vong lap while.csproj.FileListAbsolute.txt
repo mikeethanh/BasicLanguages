@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp18 vong lap while\bin\Debug\Csharp18 vong lap while.exe.config
+E:\C# VS\Csharp\Csharp18 vong lap while\bin\Debug\Csharp18 vong lap while.exe
+E:\C# VS\Csharp\Csharp18 vong lap while\bin\Debug\Csharp18 vong lap while.pdb
+E:\C# VS\Csharp\Csharp18 vong lap while\obj\Debug\Csharp18 vong lap while.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp18 vong lap while\obj\Debug\Csharp18 vong lap while.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp18 vong lap while\obj\Debug\Csharp18 vong lap while.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp18 vong lap while\obj\Debug\Csharp18 vong lap while.exe
+E:\C# VS\Csharp\Csharp18 vong lap while\obj\Debug\Csharp18 vong lap while.pdb

@@ -1,0 +1,13 @@
+tao folder jason_server 
+them file db.json
+trong package.json them
+	"start": "json-server --watch db.json",
+dung o jason_server call 
+	npm start 
+	//Mock API
+//Postman
+// CRUD 
+    //create-> POST
+    //read -> GET 
+    //update -> PUT
+    //delete => DELETE 

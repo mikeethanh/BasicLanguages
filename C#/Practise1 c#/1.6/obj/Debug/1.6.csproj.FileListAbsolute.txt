@@ -1,0 +1,8 @@
+E:\C# VS\Practise1\1.6\bin\Debug\1.6.exe.config
+E:\C# VS\Practise1\1.6\bin\Debug\1.6.exe
+E:\C# VS\Practise1\1.6\bin\Debug\1.6.pdb
+E:\C# VS\Practise1\1.6\obj\Debug\1.6.csproj.AssemblyReference.cache
+E:\C# VS\Practise1\1.6\obj\Debug\1.6.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Practise1\1.6\obj\Debug\1.6.csproj.CoreCompileInputs.cache
+E:\C# VS\Practise1\1.6\obj\Debug\1.6.exe
+E:\C# VS\Practise1\1.6\obj\Debug\1.6.pdb

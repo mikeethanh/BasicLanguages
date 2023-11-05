@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp toan tu ba ngoi\obj\Debug\Csharp16 toan tu ba ngoi.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp toan tu ba ngoi\obj\Debug\Csharp16 toan tu ba ngoi.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp toan tu ba ngoi\obj\Debug\Csharp16 toan tu ba ngoi.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp toan tu ba ngoi\bin\Debug\Csharp toan tu ba ngoi.exe.config
+E:\C# VS\Csharp\Csharp toan tu ba ngoi\bin\Debug\Csharp toan tu ba ngoi.exe
+E:\C# VS\Csharp\Csharp toan tu ba ngoi\bin\Debug\Csharp toan tu ba ngoi.pdb
+E:\C# VS\Csharp\Csharp toan tu ba ngoi\obj\Debug\Csharp toan tu ba ngoi.exe
+E:\C# VS\Csharp\Csharp toan tu ba ngoi\obj\Debug\Csharp toan tu ba ngoi.pdb

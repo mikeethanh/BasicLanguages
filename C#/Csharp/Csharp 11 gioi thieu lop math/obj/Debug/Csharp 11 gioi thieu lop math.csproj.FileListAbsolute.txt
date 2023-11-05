@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp 11 gioi thieu lop math\bin\Debug\Csharp 11 gioi thieu lop math.exe.config
+E:\C# VS\Csharp\Csharp 11 gioi thieu lop math\bin\Debug\Csharp 11 gioi thieu lop math.exe
+E:\C# VS\Csharp\Csharp 11 gioi thieu lop math\bin\Debug\Csharp 11 gioi thieu lop math.pdb
+E:\C# VS\Csharp\Csharp 11 gioi thieu lop math\obj\Debug\Csharp 11 gioi thieu lop math.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp 11 gioi thieu lop math\obj\Debug\Csharp 11 gioi thieu lop math.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp 11 gioi thieu lop math\obj\Debug\Csharp 11 gioi thieu lop math.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp 11 gioi thieu lop math\obj\Debug\Csharp 11 gioi thieu lop math.exe
+E:\C# VS\Csharp\Csharp 11 gioi thieu lop math\obj\Debug\Csharp 11 gioi thieu lop math.pdb

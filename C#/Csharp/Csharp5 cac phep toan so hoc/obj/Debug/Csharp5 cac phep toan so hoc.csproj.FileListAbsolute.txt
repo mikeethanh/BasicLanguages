@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp5 cac phep toan so hoc\bin\Debug\Csharp5 cac phep toan so hoc.exe.config
+E:\C# VS\Csharp\Csharp5 cac phep toan so hoc\bin\Debug\Csharp5 cac phep toan so hoc.exe
+E:\C# VS\Csharp\Csharp5 cac phep toan so hoc\bin\Debug\Csharp5 cac phep toan so hoc.pdb
+E:\C# VS\Csharp\Csharp5 cac phep toan so hoc\obj\Debug\Csharp5 cac phep toan so hoc.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp5 cac phep toan so hoc\obj\Debug\Csharp5 cac phep toan so hoc.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp5 cac phep toan so hoc\obj\Debug\Csharp5 cac phep toan so hoc.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp5 cac phep toan so hoc\obj\Debug\Csharp5 cac phep toan so hoc.exe
+E:\C# VS\Csharp\Csharp5 cac phep toan so hoc\obj\Debug\Csharp5 cac phep toan so hoc.pdb

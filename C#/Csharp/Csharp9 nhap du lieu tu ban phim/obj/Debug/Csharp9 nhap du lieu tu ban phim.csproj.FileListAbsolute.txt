@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp9 nhap du lieu tu ban phim\obj\Debug\Csharp9 nhap du lieu tu ban phim.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp9 nhap du lieu tu ban phim\obj\Debug\Csharp9 nhap du lieu tu ban phim.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp9 nhap du lieu tu ban phim\obj\Debug\Csharp9 nhap du lieu tu ban phim.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp9 nhap du lieu tu ban phim\bin\Debug\Csharp9 nhap du lieu tu ban phim.exe.config
+E:\C# VS\Csharp\Csharp9 nhap du lieu tu ban phim\bin\Debug\Csharp9 nhap du lieu tu ban phim.exe
+E:\C# VS\Csharp\Csharp9 nhap du lieu tu ban phim\bin\Debug\Csharp9 nhap du lieu tu ban phim.pdb
+E:\C# VS\Csharp\Csharp9 nhap du lieu tu ban phim\obj\Debug\Csharp9 nhap du lieu tu ban phim.exe
+E:\C# VS\Csharp\Csharp9 nhap du lieu tu ban phim\obj\Debug\Csharp9 nhap du lieu tu ban phim.pdb

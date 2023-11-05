@@ -1,0 +1,184 @@
+.nen { 
+    background-color:rgb(100, 100, 100) ;
+}
+
+.nav { 
+    height: 42px;
+    background-color: red;
+    /* display:flex de chon co dung flex_box hay khong */
+    display:flex;
+    justify-content: space-between;
+}
+
+.nav-list { 
+    padding-left: 0;
+    margin:auto 16px;
+    
+}
+
+.nav-item {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 18px;
+    list-style: none;
+    color: white;
+    display : inline-block;
+    margin: auto 8px;
+}
+
+/* css form */
+.form-contaner {
+    height: 150px;
+    max-width: 720px;
+    padding:32px;
+    margin: 36px auto 0 auto;
+    background-color: white;
+}
+.form_row { 
+    padding : 8px 0;
+    display : flex;
+}
+
+.form_input { 
+    flex : 1;
+}
+/* css column */
+.column-layout { 
+   margin-top: 36px;
+   padding: 12px 0; 
+   background-color: #fff;
+   display:  flex;
+}
+
+.column-item { 
+    padding: 0 16px;
+    flex: 1;
+}
+
+.main-column { 
+    flex: 3;
+}
+
+/* css feature  */
+.feature-layout{
+    margin-top:36px; 
+    display:flex;
+    justify-content: space-around;
+}
+
+.feature-item {
+    margin-top: 16px;
+    padding: 12px 16px;
+    flex-basis: 30%;
+}
+
+.f1 { 
+     background-color: #84e4d7;
+}
+
+.f2 { 
+    background-color: blanchedalmond;
+}
+
+.f3{
+    background-color: rgb(187, 157, 218);
+}
+
+/* css wrap */
+.wrap-layout {
+    margin-top:36px;
+    padding: 12px 0 32px 0px; 
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+}
+
+.wrap-item {
+    height: 90px;
+    width: 148px;
+    background-color: rgb(245, 5, 5);
+    color: #fff;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 90px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* center layout */
+.center-layout { 
+    height: 250px;
+    width: 500px;
+    margin: 32px auto 0 auto;
+    display:flex;
+    background-color: rgb(21, 255, 177);
+}
+
+.center-item {
+    font-size: 42px;
+    font-weight: 700px;
+    margin: auto;
+}
+/* css chart layout */
+.chart-layout { 
+    margin:36px auto 0 auto;
+    padding:32px 0;
+    height: 320px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.chart-layout__item { 
+    width: 60px;
+    color: #fff;
+    text-align: center;
+    height: var(--percent, 100%); /* Đặt giá trị mặc định là 100% nếu biến không được xác định */
+    background-color: red;
+    animation: growth ease-in 0.5s;
+}
+
+@keyframes growth  { 
+    from { 
+        opacity : 0;
+        height: calc(var(--percent)- 50%);
+    }
+    to { 
+        opacity: 1;
+        height: var(--percent);
+    }
+}
+
+/* css the-end */
+.the-end-layout { 
+    margin: 32px auto 0 auto;
+    padding:32px 0px;
+    max-width: 740px;
+    min-height: 360px;
+    display: flex;
+}
+
+.the-end-1 { 
+    padding: 4px 16px;
+    background-color: #fff;
+    flex : 1 ;
+}
+
+.the-end-22 { 
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.the-end-2 { 
+    padding: 4px 16px;
+    background-color: #e896eb;
+    flex: 1;
+}
+
+.the-end-3 { 
+    padding: 4px 16px;
+    background-color: #81d2f1;
+    flex : 1;
+}
+
+

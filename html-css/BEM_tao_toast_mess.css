@@ -1,0 +1,149 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: "Helvetica Neue";
+    background-color: #f4f4f5;
+  }
+  
+  body > div {
+    margin: auto;
+  }
+  /* TOAST */
+#toast {
+    position:fixed;
+    top: 32px ; 
+    right: 32px;
+}
+
+.toast { 
+    min-width: 400px;
+    max-width:450px;
+    display:flex;
+    align-items: center;
+    padding: 6px 0;
+    background-color: #fff;
+    border-left: 4px solid;
+    border-radius: 2px;
+    box-shadow:0 5px 8px rgba(0,0,0,0.08);
+    animation: slideleft ease 0.5s , fadeOut linear 1s 3s forwards;
+}
+
+@keyframes slideleft { 
+    from { 
+        opacity: 0;
+        transform: translateX(calc(100% + 32px));
+    }
+    to { 
+        opacity : 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeOut { 
+    to { 
+        opacity : 0 ; 
+    }
+}
+.toast+.toast { 
+    margin-top:24px;
+}
+.toast__icon { 
+    font-size: 24px;
+}
+
+.toast__icon,
+.toast__close { 
+    padding: 0 16px;
+}
+
+.toast__close:hover { 
+    opacity: 0.8;
+  }
+
+.toast__close { 
+    font-size: 20px;
+    color: rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+.toast__body {
+    flex-grow: 1;
+  }
+
+.toast__title {
+    margin-top:10px ;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+  }
+
+.toast__msg {
+    font-size: 14px;
+    color: #888;
+    margin-top: 4px;
+    line-height: 1.5;
+  }
+
+.toast--success { 
+   border-color: #47d864 ;
+}
+ .toast--success .toast__icon { 
+    color: #47d864;
+}
+.toast--infor { 
+    border-color: #2f86eb ;
+}
+.toast--infor .toast__icon  { 
+    color: #2f86eb;
+}
+.toast--warning { 
+    border-color:#ffc021 ;
+}
+.toast--warning .toast__icon { 
+    color:#ffc021;
+}
+.toast--error { 
+    border-color:#ff623d ;
+}
+.toast--error .toast__icon { 
+    color: #ff623d;
+}
+
+
+/* BUTTON */
+.button{
+    display: inline-block;
+    border: none;
+    background-color: transparent;
+    text-decoration: none;
+    outline:none;
+    color: #fff;
+    /* 2 so : trenduoi traiphai */
+    padding: 12px 48px;
+    /* bo goc */
+    border-radius: 50px;
+    /* nut bam duoc khi di chuot vao co dau mui ten */
+    cursor: pointer ;
+    
+    transition: opacity 0.2s ease; 
+}
+
+  /* nut bam duoc khi di chuot vao co effect gi do*/ 
+  .button:hover { 
+    opacity: 0.8;
+  }
+
+/* 2 nut gan nhau co the css de 2 nut cach nhau ra */
+.button+.button { 
+    margin-left: 16px;
+}
+
+.button--success { 
+    background-color:green ;
+}
+
+.button--fail { 
+   background-color: red;
+}
+

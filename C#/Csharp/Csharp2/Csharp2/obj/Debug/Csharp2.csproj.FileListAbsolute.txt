@@ -1,0 +1,16 @@
+E:\C# VS\Csharp1\Csharp2\Csharp2\bin\Debug\Csharp2.exe.config
+E:\C# VS\Csharp1\Csharp2\Csharp2\bin\Debug\Csharp2.exe
+E:\C# VS\Csharp1\Csharp2\Csharp2\bin\Debug\Csharp2.pdb
+E:\C# VS\Csharp1\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.AssemblyReference.cache
+E:\C# VS\Csharp1\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp1\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp1\Csharp2\Csharp2\obj\Debug\Csharp2.exe
+E:\C# VS\Csharp1\Csharp2\Csharp2\obj\Debug\Csharp2.pdb
+E:\C# VS\Csharp\Csharp2\Csharp2\bin\Debug\Csharp2.exe.config
+E:\C# VS\Csharp\Csharp2\Csharp2\bin\Debug\Csharp2.exe
+E:\C# VS\Csharp\Csharp2\Csharp2\bin\Debug\Csharp2.pdb
+E:\C# VS\Csharp\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp2\Csharp2\obj\Debug\Csharp2.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp2\Csharp2\obj\Debug\Csharp2.exe
+E:\C# VS\Csharp\Csharp2\Csharp2\obj\Debug\Csharp2.pdb

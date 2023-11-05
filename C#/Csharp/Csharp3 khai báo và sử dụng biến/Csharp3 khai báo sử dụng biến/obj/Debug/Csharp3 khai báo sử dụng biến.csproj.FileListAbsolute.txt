@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp3 khai báo và sử dụng biến\Csharp3 khai báo sử dụng biến\bin\Debug\Csharp3 khai báo sử dụng biến.exe.config
+E:\C# VS\Csharp\Csharp3 khai báo và sử dụng biến\Csharp3 khai báo sử dụng biến\bin\Debug\Csharp3 khai báo sử dụng biến.exe
+E:\C# VS\Csharp\Csharp3 khai báo và sử dụng biến\Csharp3 khai báo sử dụng biến\bin\Debug\Csharp3 khai báo sử dụng biến.pdb
+E:\C# VS\Csharp\Csharp3 khai báo và sử dụng biến\Csharp3 khai báo sử dụng biến\obj\Debug\Csharp3 khai báo sử dụng biến.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp3 khai báo và sử dụng biến\Csharp3 khai báo sử dụng biến\obj\Debug\Csharp3 khai báo sử dụng biến.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp3 khai báo và sử dụng biến\Csharp3 khai báo sử dụng biến\obj\Debug\Csharp3 khai báo sử dụng biến.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp3 khai báo và sử dụng biến\Csharp3 khai báo sử dụng biến\obj\Debug\Csharp3 khai báo sử dụng biến.exe
+E:\C# VS\Csharp\Csharp3 khai báo và sử dụng biến\Csharp3 khai báo sử dụng biến\obj\Debug\Csharp3 khai báo sử dụng biến.pdb

@@ -1,0 +1,8 @@
+E:\C# VS\Csharp\Csharp13 su dung xau ki tu\bin\Debug\Csharp13 su dung xau ki tu.exe.config
+E:\C# VS\Csharp\Csharp13 su dung xau ki tu\bin\Debug\Csharp13 su dung xau ki tu.exe
+E:\C# VS\Csharp\Csharp13 su dung xau ki tu\bin\Debug\Csharp13 su dung xau ki tu.pdb
+E:\C# VS\Csharp\Csharp13 su dung xau ki tu\obj\Debug\Csharp13 su dung xau ki tu.csproj.AssemblyReference.cache
+E:\C# VS\Csharp\Csharp13 su dung xau ki tu\obj\Debug\Csharp13 su dung xau ki tu.csproj.SuggestedBindingRedirects.cache
+E:\C# VS\Csharp\Csharp13 su dung xau ki tu\obj\Debug\Csharp13 su dung xau ki tu.csproj.CoreCompileInputs.cache
+E:\C# VS\Csharp\Csharp13 su dung xau ki tu\obj\Debug\Csharp13 su dung xau ki tu.exe
+E:\C# VS\Csharp\Csharp13 su dung xau ki tu\obj\Debug\Csharp13 su dung xau ki tu.pdb
