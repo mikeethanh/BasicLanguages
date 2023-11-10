@@ -1,0 +1,27 @@
+1. SQL là gì?
+SQL là một ngôn ngữ tiêu chuẩn để lưu trữ, thao tác và truy xuất dữ liệu trong cơ sở dữ liệu.
+
+Hướng dẫn tự học SQL của cafedev sẽ dạy bạn cách sử dụng SQL trong các hệ quản trị cơ sở sau đây: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, và các hệ thống cơ sở dữ liệu khác.
+
+SQL là viết tắt của Structured Query Language
+SQL cho phép bạn truy cập và thao tác cơ sở dữ liệu
+SQL trở thành tiêu chuẩn của Viện Tiêu chuẩn Quốc gia Hoa Kỳ (ANSI) vào năm 1986 và của Tổ chức Tiêu chuẩn hóa Quốc tế (ISO) vào năm 1987
+
+2. SQL có thể làm được gì?
+SQL có thể thực thi các truy vấn đối với cơ sở dữ liệu
+SQL có thể lấy dữ liệu từ cơ sở dữ liệu
+SQL có thể chèn các bản ghi trong cơ sở dữ liệu
+SQL có thể cập nhật các bản ghi trong cơ sở dữ liệu
+SQL có thể xóa bản ghi khỏi cơ sở dữ liệu
+SQL có thể tạo cơ sở dữ liệu mới
+SQL có thể tạo bảng mới trong cơ sở dữ liệu
+SQL có thể tạo các thủ tục được lưu trữ trong cơ sở dữ liệu
+SQL có thể tạo dạng xem trong cơ sở dữ liệu
+SQL có thể đặt quyền trên bảng, thủ tục và dạng xem
+
+4. RDBMS – hệ quản trị cơ sỡ dữ liệu quan hệ là gì?
+RDBMS là viết tắt của Relational Database Management System.
+
+RDBMS là cơ sở cho SQL và cho tất cả các hệ thống cơ sở dữ liệu hiện đại như MS SQL Server, IBM DB2, Oracle, MySQL và Microsoft Access…
+
+Dữ liệu trong RDBMS được lưu trữ trong các đối tượng cơ sở dữ liệu được gọi là bảng. Bảng là một tập hợp các mục dữ liệu có liên quan và nó bao gồm các cột và hàng.
