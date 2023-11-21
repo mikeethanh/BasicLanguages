@@ -1,0 +1,14 @@
+Database:(relational database):
+là một tập hợp các dữ liệu có tổ chức liên quan đến nhau,
+ thường được lưu trữ và truy cập điện tử từ hệ thống máy
+  tính. Khi cơ sở dữ liệu phức tạp hơn, chúng thường được
+   phát triển bằng cách sử dụng các kỹ thuật thiết kế và 
+   mô hình hóa chính thức 
+
+DBMS : MySQl,..:ung dung may tinh cho phep tuong tac voi 
+nguoi dung 
+(Database Management System - DBMS) là một hệ thống phần mềm
+ được sử dụng để quản lý và tổ chức cơ sở dữ liệu. Nó cung 
+cấp một giao diện giữa cơ sở dữ liệu và người dùng hoặc các
+ứng dụng để thực hiện các hoạt động như tạo, sửa đổi, truy
+vấn và xóa dữ liệu.

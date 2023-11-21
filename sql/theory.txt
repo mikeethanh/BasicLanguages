@@ -1,7 +1,8 @@
 1. SQL là gì?
 SQL là một ngôn ngữ tiêu chuẩn để lưu trữ, thao tác và truy xuất dữ liệu trong cơ sở dữ liệu.
 
-Hướng dẫn tự học SQL của cafedev sẽ dạy bạn cách sử dụng SQL trong các hệ quản trị cơ sở sau đây: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, và các hệ thống cơ sở dữ liệu khác.
+Hướng dẫn tự học SQL của cafedev sẽ dạy bạn cách sử dụng SQL trong các hệ quản trị cơ sở sau đây: 
+MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, và các hệ thống cơ sở dữ liệu khác.
 
 SQL là viết tắt của Structured Query Language
 SQL cho phép bạn truy cập và thao tác cơ sở dữ liệu
