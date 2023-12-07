@@ -18,7 +18,7 @@ function ValidateForm() {
     }
 
     //check name
-    if(!/^(?=.*[A-Z])(?=.*[a-z])[\w]+\s[\w]+$/.test(name) || name === '') {
+    if(name.charAt(0) !== name.charAt(0).toUpperCase() || name === '' || !/^[A-Za-z\s]+$/.test(name)|| !name.includes(' ')) {
         alert('please enter valid name')
         return false
     }
