@@ -5,6 +5,33 @@ function ValidateForm() {
     var name = document.getElementById('Name').value;
     var sdt = document.getElementById('SDT').value;
 
+
+    if (password.length < 8) {
+        return false;
+    }
+
+    // Kiểm tra chứa ít nhất một chữ cái hoa và một chữ cái thường
+    const hasUppercase = /[A-Z]/.test(password);
+    const hasLowercase = /[a-z]/.test(password);
+
+    if (!hasUppercase || !hasLowercase) {
+        return false;
+    }
+
+    // Kiểm tra chứa ít nhất một số
+    const hasNumber = /\d/.test(password);
+
+    if (!hasNumber) {
+        return false;
+    }
+
+    // Kiểm tra chứa ít nhất một ký tự đặc biệt hoặc ký tự không phải chữ cái hoặc số
+    const hasSpecialChar = /[!@#$%^&*()_+\-=[\]{};':"\\|,.<>/?]/.test(password);
+
+    if (!hasSpecialChar) {
+        return false;
+    }
+    
     //check sdt 
     if (!/^(?:(?:\+\d{1,3})?[\s.-]?)?\(?(\d{3})\)?[\s.-]?(\d{3})[\s.-]?(\d{3})$/.test(sdt) || sdt === '') {
         alert('please enter valid phone number')
