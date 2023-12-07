@@ -59,29 +59,32 @@
   /*begin header*/
   .logo {
     display: flex;
-    background-color:white;
+    background-color: white;
+    justify-content: space-between;
   }
-.navbar {
-    padding-left: -20px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background-image: linear-gradient(rgb(84, 111, 130),#ccc);
-}
 
+  .logo-title {
+    font-size: 32px;
+    font-weight: bold;
+  }
+
+  .nav {
+    background: linear-gradient(#FBEA9D,#ccc);
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
   .nav-ul {
     display: flex;
-    margin-left: -20px;
   }
 
   .nav-li {
-    list-style-type: none;
-    font-size: 22px;
-    color: rgb(255, 167, 16);
-    padding-right: 20px;
+    list-style: none;
+    font-size: 24px;
+    margin-right:15px ;
   }
 
-  .nav-li:hover{
-    color: rgb(211, 72, 72);
+  .nav-li:hover {
+    color: rebeccapurple;
   }
   /*end header*/
   .main{
