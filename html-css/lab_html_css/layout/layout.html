@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Layout demo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<style>
+		
+		.container{
+			width: 80%;
+			background-color: #F4C8C8;
+			margin: 0 auto;
+		}
+		.header{
+			height: 200px;
+			background-color: #B288E6;
+			font-size: 40px;
+			text-align: center;
+			color: white;
+		}
+		.footer{
+			height: 80px;
+			background-color: #B288E6;
+			font-size: 20px;
+			text-align: center;
+			clear: left;
+		}
+		.left{
+			background-color: #BB9696;
+			float: left;
+			height: 400px;
+			clear: left;
+		}
+		.right{
+			background-color: #C7E7DB;
+			float: left;
+			height: 400px;
+		}
+		.menu ul{
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+		}
+		.menu li{
+			float: left;
+		}
+		.menu a{
+			font-size: 30px;
+			padding: 10px;
+			text-decoration: none;
+			display: block;
+		}
+		.menu a:hover{
+			background-color: #6670D4;
+			color: #990909;
+		}
+
+		[class *= "col"]{
+			width: 100%;
+		}		
+		@media only screen and (min-width: 768px) {
+			.col-md-1 {width: 8.33%;}
+			.col-md-2 {width: 16.66%;}
+			.col-md-3 {width: 25%;}
+			.col-md-4 {width: 33.33%;}
+			.col-md-5 {width: 41.66%;}
+			.col-md-6 {width: 50%;}
+			.col-md-7 {width: 58.33%;}
+			.col-md-8 {width: 66.66%;}
+			.col-md-9 {width: 75%;}
+			.col-md-10 {width: 83.33%;}
+			.col-md-11 {width: 91.66%;}
+			.col-md-12 {width: 100%;}
+		}
+		@media only screen and (min-width: 992px) {
+			.col-lg-1 {width: 8.33%;}
+			.col-lg-2 {width: 16.66%;}
+			.col-lg-3 {width: 25%;}
+			.col-lg-4 {width: 33.33%;}
+			.col-lg-5 {width: 41.66%;}
+			.col-lg-6 {width: 50%;}
+			.col-lg-7 {width: 58.33%;}
+			.col-lg-8 {width: 66.66%;}
+			.col-lg-9 {width: 75%;}
+			.col-lg-10 {width: 83.33%;}
+			.col-lg-11 {width: 91.66%;}
+			.col-lg-12 {width: 100%;}
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="header">header</div>
+		<div class="menu">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Product</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">Download</a></li>
+				<li><a href="#">Help</a></li>
+			</ul>
+		</div>
+		<div class="left col-md-5 col-lg-4">
+			<p class="setfont">This p element</p>
+		</div>
+		<div class="right col-md-7 col-lg-8">
+			<a href="http://www.w3school.com">link</a>
+		</div>
+		<div class="footer">footer</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,55 @@
+.header{
+    background-color:rgb(255, 255, 255);
+}
+
+.h1-header {
+    background-color: rgb(32, 225, 35);
+    padding: 10px 0px 10px 10px;
+}
+
+html{
+    border-top: none;
+    border-width: 25px;
+    border-color: rgb(250, 94, 224);
+    border-style: none solid solid solid;
+}
+
+.aside {
+    float: left;
+    padding-left: 15px;
+    background-color: aqua;
+    width: 350px;
+    margin-right:30px ;
+}
+
+aside > ul > li {
+    list-style-type: none;
+}
+aside > ul {
+    margin-top: -20px;
+    margin-left: -40px;
+    font-size: large;
+}
+.h1 {
+    font-size: 30px;
+}
+
+.h2 {
+    margin-top:-20px;
+    font-size: 25px;
+}
+
+article {
+    border: 1px solid #cccccc;
+    overflow: hidden;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 18px;
+}

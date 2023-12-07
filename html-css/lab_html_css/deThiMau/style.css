@@ -1,0 +1,134 @@
+/* For mobile phones: */
+@media only screen and (min-width: 320) and (max-width:767){
+    .col-sm-1 {width: 8.33%;}
+    .col-sm-2 {width: 16.66%;}
+    .col-sm-3 {width: 25%;}
+    .col-sm-4 {width: 33.33%;}
+    .col-sm-5 {width: 41.66%;}
+    .col-sm-6 {width: 50%;}
+    .col-sm-7 {width: 58.33%;}
+    .col-sm-8 {width: 66.66%;}
+    .col-sm-9 {width: 75%;}
+    .col-sm-10 {width: 83.33%;}
+    .col-sm-11 {width: 91.66%;}
+    .col-sm-12 {width: 100%;}
+}
+
+  
+  @media only screen and (min-width: 768px) and (max-width : 1280px) {
+    /* For tablets: */
+    .col-md-1 {width: 8.33%;}
+    .col-md-2 {width: 16.66%;}
+    .col-md-3 {width: 25%;}
+    .col-md-4 {width: 33.33%;}
+    .col-md-5 {width: 41.66%;}
+    .col-md-6 {width: 50%;}
+    .col-md-7 {width: 58.33%;}
+    .col-md-8 {width: 66.66%;}
+    .col-md-9 {width: 75%;}
+    .col-md-10 {width: 83.33%;}
+    .col-md-11 {width: 91.66%;}
+    .col-md-12 {width: 100%;}
+    }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .col-lg-1 {width: 8.33%;}
+    .col-lg-2 {width: 16.66%;}
+    .col-lg-3 {width: 25%;}
+    .col-lg-4 {width: 33.33%;}
+    .col-lg-5 {width: 41.66%;}
+    .col-lg-6 {width: 50%;}
+    .col-lg-7 {width: 58.33%;}
+    .col-lg-8 {width: 66.66%;}
+    .col-lg-9 {width: 75%;}
+    .col-lg-10 {width: 83.33%;}
+    .col-lg-11 {width: 91.66%;}
+    .col-lg-12 {width: 100%;}
+  }
+  
+  .wrapper{
+      width: 85%;
+      background-color: #7F7E7E;
+      margin: 0 auto;
+  }
+
+
+
+
+  /*begin header*/
+  .logo {
+    display: flex;
+    background-color:white;
+  }
+.navbar {
+    padding-left: -20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-image: linear-gradient(rgb(84, 111, 130),#ccc);
+}
+
+  .nav-ul {
+    display: flex;
+    margin-left: -20px;
+  }
+
+  .nav-li {
+    list-style-type: none;
+    font-size: 22px;
+    color: rgb(255, 167, 16);
+    padding-right: 20px;
+  }
+
+  .nav-li:hover{
+    color: rgb(211, 72, 72);
+  }
+  /*end header*/
+  .main{
+      width: 100%;
+      background-color: #565454;
+      overflow: auto;
+  }
+  .hotnews{
+      width: 100%;
+      
+  }
+  .imgnews{
+      float: left;
+      padding: 0 10px;
+      box-sizing: border-box;
+  }
+  .imgnews img{
+      width: 100%;
+  }
+  .textnews{
+      float: left;
+      padding: 0 10px;
+      box-sizing: border-box;
+  }
+  .title{
+      line-height: 30px;
+      background-image: linear-gradient(to bottom, #FCD917, #FBEA9D)
+  }
+  
+  .content{
+      color: white;
+      background-image: linear-gradient(to bottom right, #989797, #383838)
+  }
+  
+  .news{
+      clear: both;
+  }
+  
+  .item{
+      float: left;
+      box-sizing: border-box;
+      padding: 5px 5px;
+  }
+  .item img{
+      width: 100%;
+  }
+  .frmcomment{
+      margin-top: 10px;
+      color: white;
+  }
