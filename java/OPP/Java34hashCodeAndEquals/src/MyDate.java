@@ -59,6 +59,7 @@ public class MyDate {
 
 	@Override
 	public int hashCode() {
+		//"final" xuất hiện khi khai báo biến "prime", nó đánh dấu biến "prime" là một hằng số (constant).
 		final int prime = 31;
 		int result = 1;
 		result = prime * result + day;
@@ -67,6 +68,7 @@ public class MyDate {
 		return result;
 	}
 
+// so sanh xem 2 doi tuong co giong nhau hay khong . 
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
@@ -75,6 +77,7 @@ public class MyDate {
 			return false;
 		if (this.getClass() != obj.getClass())
 			return false;
+			//ep kieu du lieu 
 		MyDate other = (MyDate) obj;
 		if (this.day != other.day)
 			return false;
