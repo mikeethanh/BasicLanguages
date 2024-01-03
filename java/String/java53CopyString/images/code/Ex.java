@@ -1,3 +1,4 @@
+//import Array moi co the su dung cac phuong thuc trong class 
 import java.util.Arrays;
 
 public class Ex {
