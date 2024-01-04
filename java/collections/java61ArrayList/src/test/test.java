@@ -81,5 +81,6 @@ public class test {
 				dssv.inDanhSachSinhVien();
 			}
 		}while(luaChon!=0);
+		sc.close();
 	}
 }

@@ -12,15 +12,16 @@ import java.util.Comparator;
 //ArrayList cho phép bạn thêm các phần tử có giá trị giống nhau vào danh sách.
 public class DanhSachSinhVien {
 		// 1 danh sach sinh vien duoc quan ly bangg ArrayList
-		private ArrayList danhSach;
+		// cac phan tu trong arraylist la object thuoc class SinhVien
+		private ArrayList<SinhVien> danhSach;
 		
 		//constructor
 		public DanhSachSinhVien() {
-			this.danhSach = new ArrayList();
+			this.danhSach = new ArrayList<SinhVien>();
 		}
 		
 		//constructor 1 tham so 
-		public DanhSachSinhVien(ArrayList danhSach) {
+		public DanhSachSinhVien(ArrayList<SinhVien> danhSach) {
 			this.danhSach = danhSach;
 		}
 		
@@ -83,15 +84,19 @@ public class DanhSachSinhVien {
 		}
 //		9.	Xuất ra danh sách sinh viên có điểm từ cao đến thấp.
 		public void sapXepSinhVienGiamDanTheoDiem() {
-			Collections.sort(this.danhSach, new Comparator() {
+			//truyen vao 1 comparator , 1 interface trongg java
+			Collections.sort(this.danhSach, new Comparator<SinhVien>() {
+				//ghi de phuong thuc compare trong interface Comparator
 				@Override
 				public int compare(SinhVien sv1, SinhVien sv2) {
-					if(sv1.getDiemTrungBinh()sv2.getDiemTrungBinh()) {
+					if(sv1.getDiemTrungBinh()<sv2.getDiemTrungBinh()) {
+						return 1;
+					}else if(sv1.getDiemTrungBinh()>sv2.getDiemTrungBinh()) {
 						return -1;
 					}else {
 						return 0;
 					}
-				}	
+				}
 			});
 		}
 }

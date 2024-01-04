@@ -2,7 +2,7 @@ package main;
 
 import java.util.Objects;
 
-public class SinhVien implements Comparable{
+public class SinhVien implements Comparable<SinhVien>{
 	private String maSinhVien;
 	private String hoVaTen;
 	private int namSinh;
