@@ -14,7 +14,7 @@ public class queue {
 		
 		while(true) {
 			//poll la lay ra va xoa 
-			String ten = danhSachSV.poll();  // peek=> lấy ra và xóa
+			String ten = danhSachSV.poll();  // peek=> lấy ra 
 			if(ten==null) {
 				break;
 			}

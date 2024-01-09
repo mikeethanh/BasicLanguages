@@ -20,7 +20,8 @@ import java.util.Set;
 //Bảng băm (Hash Table):
 
 //HashSet sử dụng cấu trúc dữ liệu bảng băm để lưu trữ các phần tử.
-//Bảng băm là một mảng của các danh sách liên kết (hoặc các bucket), trong đó mỗi phần tử được lưu trữ ở một vị trí được tính toán dựa trên giá trị của hàm băm của nó.
+//Bảng băm là một mảng của các danh sách liên kết (hoặc các bucket), trong đó mỗi phần tử được 
+//lưu trữ ở một vị trí được tính toán dựa trên giá trị của hàm băm của nó.
 //Hàm Băm (Hash Function):
 
 //Mỗi phần tử được thêm vào HashSet được ánh xạ đến một vị trí cụ thể trong bảng băm bằng một hàm băm (hash function).
