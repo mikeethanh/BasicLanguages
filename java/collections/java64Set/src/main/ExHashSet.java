@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Set;
-//rong Java, Set là một interface thuộc Java Collection Framework, mà cung cấp một cách lưu trữ 
+//Trong Java, Set là một interface thuộc Java Collection Framework, mà cung cấp một cách lưu trữ 
 //tập hợp các phần tử duy nhất, không chứa các phần tử trùng lặp. Set không bảo đảm vị trí của các 
 //phần tử, không theo thứ tự cụ thể như danh sách (List).
 
