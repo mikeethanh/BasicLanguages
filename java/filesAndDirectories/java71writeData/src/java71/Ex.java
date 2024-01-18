@@ -7,6 +7,7 @@ public class Ex {
 			// tạo ra 1 object thuộc lớp PrintWriter bằng con trỏ đối tượng
 
 			// tự tạo ra file 
+			//PrintWriter: Chủ yếu được sử dụng cho việc ghi dữ liệu văn bản, in định dạng, và có nhiều phương thức hữu ích cho việc làm việc với dữ liệu văn bản.
 			PrintWriter pw = new PrintWriter("E:\\BasicLanguages\\java\\filesAndDirectories\\java71\\file.txt", "UTF-8");
 			// in r xuong dong 
 			pw.println("Xin chào, mình là TITV");

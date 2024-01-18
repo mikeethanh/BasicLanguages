@@ -1,12 +1,17 @@
 package main;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+
+import javax.print.Doc;
 
 //ArrayList trong Java là một lớp triển khai của interface List trong Java Collection Framework. 
 //Nó cung cấp một mảng động (dynamic array), có thể mở rộng kích thước một cách tự động khi có thêm 
@@ -120,5 +125,27 @@ public class DanhSachSinhVien {
 				e.printStackTrace();
 			}
 			
+		}
+
+		//11. Doc tu file
+		public void docDuLieuTuFile(File f) {
+			try {
+				InputStream is = new FileInputStream(f);
+				ObjectInputStream ois =new ObjectInputStream(is);
+				SinhVien sv = null;
+				while(true) {
+					Object oj = ois.readObject();
+					if(oj==null) {
+						break;
+					}
+					if(oj!=null) {
+						sv = (SinhVien) oj;
+						this.danhSach.add(sv);
+					}
+				}
+				ois.close();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
 		}
 }
