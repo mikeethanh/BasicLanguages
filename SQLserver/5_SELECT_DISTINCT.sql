@@ -1,3 +1,4 @@
+--
 select distinct [Country]
 from dbo.Customers;
 
